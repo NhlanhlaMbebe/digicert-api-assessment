@@ -1,4 +1,4 @@
-package com.digicert.digicertapiassessment.steps;
+package com.digicert.digicertapiassessment.stepdefination;
 
 import com.digicert.digicertapiassessment.entity.Result;
 import com.digicert.digicertapiassessment.entity.Root;
